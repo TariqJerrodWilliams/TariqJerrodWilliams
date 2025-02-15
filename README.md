@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 -<p><b>Active Directory</b></p>
 -<p><b>ServiceNow</b></p>
+
 - <b>OsTicket (Help Desk Ticketing System)</b>
 
   - [OsTicket: Prerequisites And Installation](https://github.com/TariqJerrodWilliams/osticketinstall)
@@ -10,7 +11,7 @@
   - [OsTicket: Post-Installation Configuration](https://github.com/TariqJerrodWilliams/postinstallationconfiguration)
 
   - [OsTicket: Ticket Lifecycle Examples](https://github.com/TariqJerrodWilliams/ticketlifecycle)
- 
+<br></br>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-Premises Active Directory Within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
