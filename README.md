@@ -1,8 +1,6 @@
 <h1>Hi, I'm Tariq, an <a href="https://linkedin.com/in/tariqjerrodwilliams">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
--<p><b>Active Directory</b></p>
--<p><b>ServiceNow</b></p>
 
 - <b>OsTicket (Help Desk Ticketing System)</b>
 
